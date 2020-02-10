@@ -1,22 +1,10 @@
-gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.deps.json
-gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.dll
-gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.exe
-gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.pdb
-gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.dev.json
-gradebook/src/GradeBook/bin/Debug/netcoreapp3.0/GradeBook.runtimeconfig.json
-<<<<<<< HEAD
-gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.assets.cache
-=======
->>>>>>> Gitigrnore
-gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csproj.FileListAbsolute.txt
-gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.dll
-gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.exe
-gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.pdb
-<<<<<<< HEAD
+.gitignore
+gradebook/src/GradeBook/obj/GradeBook.csproj.nuget.cache
+gradebook/src/GradeBook/obj/GradeBook.csproj.nuget.dgspec.json
+gradebook/src/GradeBook/obj/GradeBook.csproj.nuget.g.props
+gradebook/src/GradeBook/obj/GradeBook.csproj.nuget.g.targets
+gradebook/src/GradeBook/obj/project.assets.json
+gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfo.cs
+gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.AssemblyInfoInputs.cache
 gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.assets.cache
 gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csprojAssemblyReference.cache
-=======
->>>>>>> Gitigrnore
-gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.csprojAssemblyReference.cache
-gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.assets.cache
-gradebook/src/GradeBook/obj/Debug/netcoreapp3.0/GradeBook.assets.cache
