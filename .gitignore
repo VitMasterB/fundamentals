@@ -119,3 +119,6 @@ gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.0/GradeBook.Tests.csproj.Fi
 gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.0/GradeBook.Tests.csprojAssemblyReference.cache
 gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.0/GradeBook.Tests.dll
 gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp3.0/GradeBook.Tests.pdb
+gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.0/GradeBook.dll
+gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.0/GradeBook.exe
+gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp3.0/GradeBook.pdb
